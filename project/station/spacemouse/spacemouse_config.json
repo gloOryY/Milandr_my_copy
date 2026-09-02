@@ -1,0 +1,28 @@
+﻿{
+  "enabled": true,
+  "deadzone": 0.15,
+  "poll_interval_ms": 20,
+  "precise_mode": {
+    "name": "precise",
+    "step_scale": 0.5,
+    "z_scale": 0.2,
+    "feed_mm_min": 4500,
+    "min_feed_mm_min": 300,
+    "response_curve": 2.5
+  },
+  "rapid_mode": {
+    "name": "rapid",
+    "step_scale": 8.0,
+    "z_scale": 0.2,
+    "feed_mm_min": 15000,
+    "min_feed_mm_min": 3000,
+    "response_curve": 1.2
+  },
+  "default_mode": "rapid",
+  "sensitivity_x": 1.0,
+  "sensitivity_y": 1.0,
+  "sensitivity_z": 1.0,
+  "invert_x": false,
+  "invert_y": false,
+  "invert_z": false
+}

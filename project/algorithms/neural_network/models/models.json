@@ -1,0 +1,42 @@
+{
+    "defects": [
+        {
+            "black_point": {
+                "name": "Инородное тело в центре кристалла",
+                "color": [
+                    255,
+                    0,
+                    0
+                ],
+                "description": "Частица грязи малых размеров (до 0.1 мм)",
+                "versions": [
+                    {
+                        "id_version": 1,
+                        "description_version": "Модель, обученная на YOLO 12 и тренированная на изображениях 1280х720",
+                        "path": "project\\algorithms\\neural_network\\models\\fixed_particle.pt",
+                        "conf": "0.5"
+                    }
+                ]
+            }
+        },
+        {
+            "cutting_error": {
+                "name": "Ошибка реза",
+                "color": [
+                    255,
+                    255,
+                    0
+                ],
+                "description": "Черные линии трещин от неправильного реза на границе рабочей зоны кристалла",
+                "versions": [
+                    {
+                        "id_version": 1,
+                        "description_version": "Модель, обученная на YOLO 12 и тренированная на изображениях 400х600",
+                        "path": "project\\algorithms\\neural_network\\models\\cutting_error.pt",
+                        "conf": "0.5"
+                    }
+                ]
+            }
+        }
+    ]
+}

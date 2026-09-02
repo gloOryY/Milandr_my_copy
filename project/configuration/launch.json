@@ -1,0 +1,10 @@
+{
+  "symbols_need_check": [
+    "P",
+    "F",
+    "M",
+    "f"
+  ],
+  "distance_between_vertical_centers_of_cells": 3.62,
+  "distance_between_horizontal_centers_of_cells": 2.9
+}

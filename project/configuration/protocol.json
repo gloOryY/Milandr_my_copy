@@ -1,0 +1,23 @@
+{
+  "input_file_path": "C:/Users/user/Desktop/Карты годности/Пластина_PC8F76-01_20260806_105724/После_АОИ",
+  "protocol_path": "C:/Users/user/Desktop/Карты годности",
+  "main_folder_path": "Пластина",
+  "after_AOI_folder_name": "После_АОИ",
+  "before_AOI_folder_name": "До_АОИ",
+  "defective_dice_folder_name": "Бракованные_кристаллы_Фотографии",
+  "after_AOI_excel_protocol_file_name": "Карта_годности_после_АОИ.xlsx",
+  "before_AOI_excel_protocol_file_name": "Карта_годности_до_АОИ.xlsx",
+  "json_protocol_file_name": "Отчёт.json",
+  "symbol_colors": {
+    "FV": "A34117",
+    "PV": "627F0F",
+    "F": "C71C27",
+    "f": "D93641",
+    "P": "31F01F",
+    "p": "68E85D",
+    "D": "FFFFFF",
+    "S": "ECF01F",
+    "M": "F3E5AB",
+    "T": "F5DEB3"
+  }
+}

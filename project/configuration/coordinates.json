@@ -1,0 +1,14 @@
+{
+  "current_coordinate_of_the_station_by_x": 181.63,
+  "current_coordinate_of_the_station_by_y": 75.77,
+  "current_coordinate_of_the_station_by_z": -69.57,
+  "x_minimum": 0,
+  "x_maximum": 380,
+  "y_minimum": 0,
+  "y_maximum": 380,
+  "z_minimum": -85,
+  "z_maximum": 0,
+  "x_coordinate_of_the_first_cell": 181.53,
+  "y_coordinate_of_the_first_cell": 75.77,
+  "z_coordinate_of_the_first_cell": -69.57
+}
